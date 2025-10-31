@@ -1,7 +1,3 @@
-<h2 align="center">Olá, tudo bem?<br>💻 ☕ 💗</h2>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="50" alt="vscode logo"  />
   <img width="12" />
@@ -15,9 +11,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/yasmim_sousac?igsh=MWVzeHNhZHNkdG54OA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/yasmim-sousa-51877b369?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
